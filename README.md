@@ -2,7 +2,6 @@
 <h3 align="center">Passionate about C# .NET technologies, aiming to become a full stack C# .NET/Angular developer</h3>
   
 <h3 align="left">Languages and Tools:</h3>
-- 🌱 I’m currently learning **Angular**
 
 <h4>Programming Languages:</h4>
 
@@ -46,6 +45,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
 </p>
+
+- 🌱 I’m currently learning Angular 
 
 Version Control and Others:
 
