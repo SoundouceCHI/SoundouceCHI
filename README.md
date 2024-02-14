@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soundouce</h1>
-<h3 align="center">Passionate about C# .NET technologies, aiming to become a full stack C# .NET/Angular developer</h3>
+<h3>Passionate about C# .NET technologies, aiming to become a full stack C# .NET/Angular developer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
